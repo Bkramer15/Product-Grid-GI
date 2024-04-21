@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: lightblue;
+}
+
+table{
+  margin-top: 10%;
+  margin-left: 5%;
+}
+
+th{
+  border: 3px solid black;
+}
+
+td{
+  border: 2px solid red;
+  width: 200px;
+  height: 150px;
+}
+
+td a{
+  text-decoration: none;
+  color:black;
+}
+
+td a:hover{
+  text-decoration: underline;
+}
+
+ul{
+  list-style-type: dash;
+  margin-left: 0;
+}
+
+
+header{
+  border: 5px solid black;
+  background: linear-gradient(brown,yellow);
+  width: 100%;
+}
+
+h1{
+   text-align: center;
+    color:white;
+}
